@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TotalFlix/static/css/main.8ea75fa4.css",
+    "main.css": "/TotalFlix/static/css/main.6b68b166.css",
     "main.js": "/TotalFlix/static/js/main.15b46ffb.js",
     "static/js/787.3dbc3c97.chunk.js": "/TotalFlix/static/js/787.3dbc3c97.chunk.js",
     "index.html": "/TotalFlix/index.html",
-    "main.8ea75fa4.css.map": "/TotalFlix/static/css/main.8ea75fa4.css.map",
+    "main.6b68b166.css.map": "/TotalFlix/static/css/main.6b68b166.css.map",
     "main.15b46ffb.js.map": "/TotalFlix/static/js/main.15b46ffb.js.map",
     "787.3dbc3c97.chunk.js.map": "/TotalFlix/static/js/787.3dbc3c97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ea75fa4.css",
+    "static/css/main.6b68b166.css",
     "static/js/main.15b46ffb.js"
   ]
 }
